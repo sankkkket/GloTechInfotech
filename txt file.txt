@@ -1,0 +1,24 @@
+#f8f9fa
+#e9ecef
+#dee2e6
+#ced4da
+#adb5bd
+#6c757d
+#6c757d
+#343a40
+#212529
+
+want to use this color pallet theme in my website, so to you decide and redesign my website and give one by one page 
+
+Footer
+about
+contact
+home 
+portfolio
+products
+testimonials
+
+Grid with product cards
+Price info and hover animations
+
+want to use local img in this as well
